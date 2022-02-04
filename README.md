@@ -22,7 +22,8 @@ From the above chart again we can see that urban drivers are more than the other
 
 
 #### Total Fare per city type 
-![image](https://user-images.githubusercontent.com/93438664/151684167-7251dda4-b377-415c-852f-61e6f1f9011c.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/93438664/152469778-b0211caf-1d7b-4c82-817a-1587e05b295f.png)
+
 
 
 Fromt the above line graph it can be see that the fares for collection by city is tha maximum and there is a huge gap within the lines of the graph. This represents the void in differnet city types. as the service with repect to the availaibility of drivers is low in subarban and Rural. While it can be the case that there is less demand but service should be provided. We can see the driver count is rural and subarban is far low than Urban. hence creating a gap 
